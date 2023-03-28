@@ -1,4 +1,4 @@
-# media.korange.work
+# [media.korange.work](media.korange.work)
 A repository for distributing images of my site, etc.
 
 ## License
